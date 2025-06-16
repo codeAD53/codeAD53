@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @codeAD53
-- 👀 I’m interested in Multiple Programming Languages
-- 🌱 "As a technophile, I am passionate about exploring and embracing the latest technological advancements." 
+- 👀 I’m passionate about building with JavaScript, Python, Java, and modern stacks like Node.js & React — always curious to try the latest frameworks and tools shaping the future.
 - 💞️ I’m looking to collaborate on MAKING Projects 
 - 📫 How to reach me adinayak2026@gmail.com
 - 😄 Pronouns: I'M
